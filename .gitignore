@@ -1,0 +1,12 @@
+.DS_Store
+~$*
+__pycache__/
+*.pyc
+.Rhistory
+.Rproj.user/
+.env
+*.key
+*.pem
+# Output from running the citation check (may contain your documents' text)
+citation_reports/
+_qa/
